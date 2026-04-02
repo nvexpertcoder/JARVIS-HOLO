@@ -1,0 +1,5 @@
+{
+  "name": "Magic Marker",
+  "description": "A touchless digital whiteboard that uses your camera to track hand gestures for drawing, erasing, and moving objects in the air.",
+  "requestFramePermissions": ["camera"]
+}
